@@ -24,6 +24,8 @@ Bidang :  Integrasi Pengolahan dan Diseminasi Statistik (IPDS)
 | 1941720136 | Wildan Acmad Fachrurozi |
 | 1941720118 | Wahyu Fajar Robyanasyah |
 
+Link Figma : https://www.figma.com/file/JMnjTKktFVVOADLR7sH4Ml/BUKU-TAMU?node-id=0%3A1
+
 ## Daftar Uraian Project
 
 | Jenis | Judul |
