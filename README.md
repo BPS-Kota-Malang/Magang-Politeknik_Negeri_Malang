@@ -5,8 +5,8 @@ Bidang :  Integrasi Pengolahan dan Diseminasi Statistik (IPDS)
 
 | Data Pembina | Nama Pembina |
 |--|--|
-| Pembina I | Pak Bima |
-| Pembina II | Pak Candra |
+| Pembina I | Bima Sakti Krisdianto |
+| Pembina II | Satria Candra Wibawa |
 
 ## Data Mahasiswa - Kelompok 1
 
