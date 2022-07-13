@@ -28,7 +28,7 @@ Bidang :  Integrasi Pengolahan dan Diseminasi Statistik (IPDS)
 
 | Jenis | Judul |
 |--|--|
-| Project 1 | Buku Tamu |
+| Project 1 | <a href="https://github.com/IPDS-BPS-Polinema/Aplikasi-Buku-Tamu"> Buku Tamu </a>|
 | Project 2 | Status - Menunggu |
 | Project 3 | Status - Menunggu |
 
