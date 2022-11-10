@@ -16,21 +16,51 @@ Bidang :  Integrasi Pengolahan dan Diseminasi Statistik (IPDS)
 | 1941720189 | Mutiara Rahmanda Tri Rizkia |
 | 1941720049 | Qorina Anindhita Prameswari |
 
+## Daftar Uraian Project - Kelompok 1
+
+| Jenis | Judul |
+|--|--|
+| Project 1 | <a href="https://github.com/IPDS-BPS-Polinema/Aplikasi-Buku-Tamu"> Buku Tamu </a> |
+| Project 2 | <a href="https://github.com/IPDS-BPS-Polinema/Manajemen-Mitra"> Manajemen Mitra </a> |
+
 ## Data Mahasiswa - Kelompok 2
 
 | NIM | Nama |
 |--|--|
-| 1941720075 | Moch Abizar Daffa Wijdan |
-| 1941720136 | Wildan Acmad Fachrurozi |
 | 1941720118 | Wahyu Fajar Robyanasyah |
 
-## Daftar Uraian Project
+## Daftar Uraian Project - Kelompok 2
 
 | Jenis | Judul |
 |--|--|
-| Project 1 | <a href="https://github.com/IPDS-BPS-Polinema/Aplikasi-Buku-Tamu"> Buku Tamu </a>|
-| Project 2 | Status - Menunggu |
-| Project 3 | Status - Menunggu |
+| Project 1 | <a href="https://github.com/IPDS-BPS-Polinema/Aplikasi-Buku-Tamu"> Buku Tamu </a> |
+| Project 2 | Peminjaman BMN |
+
+## Data Mahasiswa - Kelompok 3
+
+| NIM | Nama |
+|--|--|
+| 1941720136 | Wildan Acmad Fachrurozi |
+
+## Daftar Uraian Project - Kelompok 3
+
+| Jenis | Judul |
+|--|--|
+| Project 1 | <a href="https://github.com/IPDS-BPS-Polinema/Aplikasi-Buku-Tamu"> Buku Tamu </a> |
+| Project 2 | Virtual Library |
+
+## Data Mahasiswa - Kelompok 4
+
+| NIM | Nama |
+|--|--|
+| 1941720189 | Havenia Ventina Banjarnahor |
+
+## Daftar Uraian Project - Kelompok 4
+
+| Jenis | Judul |
+|--|--|
+| Project 1 | Virtual Tour |
+| Project 2 | Disposisi Surat |
 
 ## Struktur Folder
 
